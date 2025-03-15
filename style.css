@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(241, 177, 250);
+    color:rgb(10, 112, 82);
+}
+h1{
+    color:rgb(38, 0, 255);
+    border:2px solid green;
+    
+}
+    p{
+        border:2px solid rgb(0, 0, 0);
+        border-color: rgb(0, 0, 0);
+        padding: 30px ;
+}
+    
+img{
+    size-adjust: 2px;
+    width: 1000px;
+    height: 400px;
+}
